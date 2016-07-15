@@ -24,7 +24,7 @@ meteor
 
 # 参考URL
 ## 発表資料
-
+https://docs.google.com/a/mebro.co.jp/presentation/d/1IoROaWBRziOiNhm4jVxEDV6LBxQ46fpNftGvuT_yreM/edit?usp=sharing
 
 ## チュートリアル
 http://meteor-fan.axlight.com/meteor-tutorial-blaze/
